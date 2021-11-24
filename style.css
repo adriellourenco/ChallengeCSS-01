@@ -1,0 +1,10 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #43389F;
+    background-image: -webkit-linear-gradient(bottom left, #43389F, #4ec6ca);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
